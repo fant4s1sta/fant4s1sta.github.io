@@ -137,9 +137,9 @@ footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
   since: 1996
   icon:
-    name: sakura rotate
+    name: star rotate
     # Change the color of icon, using Hex Code.
-    color: "#ffc0cb"
+    color: "#1677ff"
   # Dependencies: https://github.com/theme-next/hexo-symbols-count-time
   count: false
   powered: false
